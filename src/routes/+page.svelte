@@ -1,15 +1,15 @@
-<header>
-  <a href="/">taro&amp;</a>
-  <nav>
+<header class="fixed w-full px-6 py-4 flex justify-between items-center gap-2">
+  <a href="/" class="font-display font-semibold tracking-tight text-3xl sm:text-4xl">taro&amp;</a>
+  <nav class="flex gap-4 sm:text-lg">
     <a href="/#work">Work</a>
-    <a href="mailto:taronull@gmail.com">Say hi</a>
+    <a href="mailto:taronull@gmail.com">Contact</a>
   </nav>
 </header>
-<section id="hero">
-  <h1>
-    Learning
-                Made
-    Transformational
+<section id="hero" class="px-4 py-16 sm:px-8 min-h-screen grid content-center">
+  <h1 class="grid font-display font-semibold text-9xl lg:text-[13vw]">
+    <span id="learning">Learn<wbr />ing</span>
+    <span class="justify-self-end">Made</span>
+    <span id="transformational" class="italic">Trans<wbr />form<wbr />ation<wbr />al</span>
   </h1>
 </section>
 <section id="introduction">
@@ -66,3 +66,21 @@
 <footer>
   &copy; Taro 2023
 </footer>
+
+<style>
+  #learning {
+    font-variation-settings: 'SOFT' 50;
+  }
+  #transformational {
+    animation: 4s ease-in-out infinite alternate transform;
+  }
+
+  @keyframes transform {
+    0% {
+      font-variation-settings: 'wght' 600, 'SOFT'   0;
+    }
+    100% {
+      font-variation-settings: 'wght' 590, 'SOFT' 100;
+    }
+  }
+</style>
