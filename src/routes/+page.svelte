@@ -21,7 +21,7 @@
 
 <Work />
 
-<footer>
-  &copy; Taro 2023
+<footer class="p-16 text-center">
+  &copy; 2023
 </footer>
 
