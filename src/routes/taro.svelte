@@ -1,5 +1,7 @@
 <script>
   import Bubble from "./bubble.svelte"
+
+  let linkStyle = "underline decoration-from-font text-sky-600 hover:text"
 </script>
 
 <section class="grid justify-center gap-2 px-4 py-16">
@@ -8,19 +10,19 @@
     <p class="font-display font-semibold text-xl sm:text-2xl md:text-3xl lg-text-4xl">Taro</p>
     <Bubble>Hi! 👋 I'm Taro, your LX designer</Bubble>
     <Bubble>Learning is the key for a better future</Bubble>
-    <Bubble>People want to change for the better, would pay for it 🔥</Bubble>
+    <Bubble>People want a change their lives, would pay for it 🔥</Bubble>
     <Bubble>But making a learning experience takes more than domain knowledge</Bubble>
-    <Bubble>That's why I design it! ✨</Bubble>
-    <Bubble>My process combines creativity, technology, and your uniqueness</Bubble>
+    <Bubble>And that's what we do! ✨</Bubble>
+    <Bubble>Our process combines creativity, technology, and your own uniqueness</Bubble>
     <Bubble>Let's find out what we can do for your challenge 😉</Bubble>
     <Bubble>
       Feel free to reach out: 
-      <a href="mailto:taronull@gmail.com" class="underline decoration-from-font">taronull@gmail.com</a>
+      <a href="mailto:taronull@gmail.com" class={linkStyle}>taronull@gmail.com</a>
     </Bubble>
     <Bubble>
       Connect with me on 
-      <a href="https://taroand.substack.com" class="underline decoration-from-font">Substack</a>, 
-      <a href="https://twitter.com/taronull" class="underline decoration-from-font">Twitter</a>, 
+      <a href="https://taroand.substack.com" class={linkStyle}>Substack</a>, 
+      <a href="https://twitter.com/taronull" class={linkStyle}>Twitter</a>, 
       and LinkedIn
     </Bubble>
   </div>

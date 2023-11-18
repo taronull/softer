@@ -26,5 +26,10 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource-variable/fraunces": "^5.0.18",
+		"@fontsource-variable/inter": "^5.0.15",
+		"@fontsource-variable/inter-tight": "^5.0.18"
+	}
 }
