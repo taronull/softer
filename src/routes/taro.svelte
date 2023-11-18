@@ -10,7 +10,7 @@
     <p class="font-display font-semibold text-xl sm:text-2xl md:text-3xl lg-text-4xl">Taro</p>
     <Bubble>Hi! 👋 I'm Taro, your LX designer</Bubble>
     <Bubble>Learning is the key for a better future</Bubble>
-    <Bubble>People want a change their lives, would pay for it 🔥</Bubble>
+    <Bubble>People want a change in their lives, would pay for it 🔥</Bubble>
     <Bubble>But making a learning experience takes more than domain knowledge</Bubble>
     <Bubble>And that's what we do! ✨</Bubble>
     <Bubble>Our process combines creativity, technology, and your own uniqueness</Bubble>
