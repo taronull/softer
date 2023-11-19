@@ -6,7 +6,7 @@
 </script>
 
 <header class="fixed w-full px-6 py-4 flex justify-between items-center gap-2">
-  <a href="/" class="font-display font-semibold italic lowercase tracking-tighter text-3xl sm:text-4xl">Softer</a>
+  <a href="/" class="font-display font-bold italic lowercase tracking-tighter text-3xl sm:text-4xl">Softer</a>
   <nav class="flex gap-4 sm:text-lg">
     <a href="/#work">Work</a>
     <a href="mailto:taro@softer.design">Contact</a>
