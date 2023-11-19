@@ -20,16 +20,9 @@
     </p>
     <p class={bubbleStyle}>
       Connect with me on 
-      <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={linkStyle}>
-        Substack
-      </a>, 
-      <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={linkStyle}>
-        Twitter
-      </a>, 
-      and 
-      <a href="https://www.linkedin.com/in/taronull/" target="_blank" rel="noopener noreferrer" class={linkStyle}>
-        LinkedIn
-      </a>
+      <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={linkStyle}>Substack</a>, 
+      <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={linkStyle}>Twitter</a>, and 
+      <a href="https://www.linkedin.com/in/taronull/" target="_blank" rel="noopener noreferrer" class={linkStyle}>LinkedIn</a>
     </p>
   </div>
 </section>
