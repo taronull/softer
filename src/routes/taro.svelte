@@ -17,13 +17,20 @@
     <Bubble>Let's find out what we can do for your challenge 😉</Bubble>
     <Bubble>
       Feel free to reach out: 
-      <a href="mailto:taronull@gmail.com" class={linkStyle}>taronull@gmail.com</a>
+      <a href="mailto:taro@softer.design" class={linkStyle}>taro@softer.design</a>
     </Bubble>
     <Bubble>
       Connect with me on 
-      <a href="https://taroand.substack.com" class={linkStyle}>Substack</a>, 
-      <a href="https://twitter.com/taronull" class={linkStyle}>Twitter</a>, 
-      and LinkedIn
+      <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={linkStyle}>
+        Substack
+      </a>, 
+      <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={linkStyle}>
+        Twitter
+      </a>, 
+      and 
+      <a href="https://www.linkedin.com/in/taronull/" target="_blank" rel="noopener noreferrer" class={linkStyle}>
+        LinkedIn
+      </a>
     </Bubble>
   </div>
 </section>

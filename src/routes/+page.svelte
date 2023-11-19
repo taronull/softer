@@ -9,7 +9,7 @@
   <a href="/" class="font-display font-semibold italic lowercase tracking-tighter text-3xl sm:text-4xl">Softer</a>
   <nav class="flex gap-4 sm:text-lg">
     <a href="/#work">Work</a>
-    <a href="mailto:taronull@gmail.com">Contact</a>
+    <a href="mailto:taro@softer.design">Contact</a>
   </nav>
 </header>
 

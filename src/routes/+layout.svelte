@@ -5,4 +5,8 @@
   import "@fontsource-variable/inter";
 </script>
 
+<svelte:head>
+	<title>Softer Design</title>
+</svelte:head>
+
 <slot />
