@@ -11,7 +11,7 @@
 
 <style>
   #learning {
-    font-variation-settings: 'SOFT' 50;
+    font-variation-settings: "SOFT" 50;
   }
   #transformational {
     animation: 2s ease-in-out infinite alternate transform;
@@ -19,10 +19,10 @@
 
   @keyframes transform {
     0% {
-      font-variation-settings: 'SOFT'   0;
+      font-variation-settings: "SOFT"   0;
     }
     100% {
-      font-variation-settings: 'SOFT' 100;
+      font-variation-settings: "SOFT" 100;
     }
   }
 </style>
