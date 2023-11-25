@@ -4,7 +4,7 @@
 </script>
 
 <section class="grid justify-center gap-2 px-4 py-16">
-  <img src="/images/taro.jpg" alt="Taro" class="rounded-full w-14 sm:w-16 md:w-20 lg:w-24">
+  <img src="https://images.softer.design/taro.webp" alt="Taro" class="rounded-full w-14 sm:w-16 md:w-20 lg:w-24">
   <div class="grid gap-1 col-start-2 w-64 sm:w-72 md:w-80 lg:w-96">
     <p class="font-display font-semibold text-xl sm:text-2xl md:text-3xl lg-text-4xl">Taro</p>
     <p class={bubbleStyle}>Hi! 👋 I'm Taro, your LX designer</p>
