@@ -1,20 +1,12 @@
 <script>
-  import Header from "./header.svelte"
   import Hero from "./hero.svelte"
-  import Studio from "./studio.svelte"
-  import Taro from "./taro.svelte"
+  import Value from "./value.svelte"
   import Work from "./work.svelte"
-  import Footer from "./footer.svelte"
+  import Taro from "./taro.svelte"
 </script>
 
-<Header />
-
 <Hero />
-
-<Studio />
-
+<Value />
+<Work />
 <Taro />
 
-<Work />
-
-<Footer />
