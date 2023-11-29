@@ -3,7 +3,7 @@
   let link = "underline decoration-from-font text-sky-600"
 </script>
 
-<section class="grid justify-center gap-2 px-4 py-16">
+<section id="contact" class="grid justify-center gap-2 px-4 py-16">
   <img src="https://images.softer.design/taro.webp" alt="Taro" class="rounded-full w-16 md:w-20">
   <div class="grid gap-1 col-start-2 max-w-xs">
     <p class="font-display font-semibold text-2xl md:text-3xl">Taro</p>

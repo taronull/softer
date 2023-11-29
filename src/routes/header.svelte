@@ -1,9 +1,5 @@
-<header class="fixed w-full px-6 sm:px-8 py-4 flex justify-between items-center gap-2">
+<header class="fixed w-full px-6 sm:px-8 py-4">
   <a href="/" id="logotype" class="text-3xl md:text-4xl">Softer</a>
-  <nav class="flex gap-4">
-    <a href="/#work">Work</a>
-    <a href="mailto:taro@softer.design">Contact</a>
-  </nav>
 </header>
 
 <style>

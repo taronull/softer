@@ -4,6 +4,7 @@
   import "@fontsource-variable/inter";
   import "../app.css";
   import Header from "./header.svelte"
+  import Navigation from "./navigation.svelte"
   import Footer from "./footer.svelte"
 </script>
 
@@ -12,6 +13,8 @@
 </svelte:head>
 
 <Header />
+
+<Navigation />
 
 <slot />
 
