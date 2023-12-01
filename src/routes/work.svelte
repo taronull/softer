@@ -1,27 +1,9 @@
-<section id="work" class="grid gap-16 justify-items-center px-4 py-32">
-  <article class="grid gap-4 max-w-[48ch]">
-    <h2 class="font-display text-4xl sm:text-5xl md:text-6xl">Mind 101</h2>
+<section id="work" class="grid gap-16 justify-items-center px-4">
+  <article class="grid gap-4 max-w-xl text-stone-50 bg-slate-700 p-16 rounded-lg">
+    <h2 class="lowercase font-medium text-3xl md:text-4xl">Mind 101</h2>
     <p>
-      This online course bridges the gap between the mind 
-      and the brain to help meditators achieve their goals. 
-      Key challenge was to visualise abstract concepts 
-      and to facilitate the community.
-    </p>
-  </article>
-  <article class="grid gap-4 max-w-[48ch]">
-    <h2 class="font-display text-4xl sm:text-5xl md:text-6xl">Notion Academy</h2>
-    <p>
-      Notion Academy has been a small part of Notion's help center. 
-      This concept project explores what does it mean 
-      to provide the customers with a complete learner journey.
-    </p>
-  </article>
-  <article class="grid gap-4 max-w-[48ch]">
-    <h2 class="font-display text-4xl sm:text-5xl md:text-6xl">E-learning Specs</h2>
-    <p>
-      Modern e-learning has 3 data transmission standards with minute differences. 
-      This guide delineates each one from the others and puts them 
-      in a perspective to help users make a right choice.
+      This online course demystifies the mind with brain science 
+      to help meditators achieve their goals. (coming soon)
     </p>
   </article>
 </section>

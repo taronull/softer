@@ -1,7 +1,4 @@
-<section id="hero" class="
-  grid md:grid-cols-2 content-end min-h-[100svh]
-  px-4 pt-24
-">
+<section id="hero" class="grid md:grid-cols-2 content-end min-h-[100svh] px-4 pt-24">
   <h1 class="
     grid md:grid-rows-[subgrid] row-span-3 items-end
     text-[18vw]/[0.9] font-display uppercase tracking-tight
