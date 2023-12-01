@@ -9,6 +9,14 @@
         Learners are ready to pay for meaningful changes. 
         With Softer, every brand is an opportunity for transformation.
       </p>
+      <ul class="list-disc list-inside">
+        <li>Creators</li>
+        <li>Businesses</li>
+        <li>Nonprofits</li>
+      </ul>
+      <p>
+        All have stories to share and make a difference. The same goes for you.
+      </p>
     </div>
   </article>
 </section>
