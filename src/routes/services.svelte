@@ -1,4 +1,4 @@
-<section class="grid justify-center p-4">
+<section id="services" class="grid justify-center p-4">
   <div class="grid md:grid-cols-[auto_auto] md:gap-8 text-[10vw]/none md:text-6xl tracking-tighter">
     <div class="self-start md:sticky md:top-1/4">Softer</div>
     <ul>

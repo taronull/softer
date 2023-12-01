@@ -1,6 +1,6 @@
 <script>
   import { browser } from "$app/environment";
-  import { slide } from "svelte/transition";
+  import { fade } from "svelte/transition";
 
   let visible = true
 
@@ -14,19 +14,20 @@
         y = window.scrollY;
       }
     )
+    window.addEventListener("keydown", () => (visible = true))
   }
 </script>
 
 {#if visible}
-  <nav transition:slide class="fixed left-0 bottom-[5svh] right-0 flex justify-center">
-    <div class="
-      flex gap-4 text-sm w-fit px-4 py-2 rounded-lg
-      bg-white/50 border-y border-b-white/50 border-t-black/5 shadow-md shadow-black/5 backdrop-blur-md
+  <div transition:fade class="fixed left-0 bottom-[5svh] right-0 flex justify-center">
+    <nav class="
+      flex gap-4 font-medium text-sm md:text-base w-fit px-4 py-2 rounded-lg
+      bg-stone-100 shadow-[-1rem_-1rem_2rem_#fff,_1rem_1rem_2rem_#e8e8e8,_0_0_2rem_2rem_#fafaf9]
       ">
       <a href="/#hero" class="hover:underline">Home</a>
-      <a href="/#services" class="hover:underline">Services</a>
       <a href="/#work" class="hover:underline">Work</a>
+      <a href="/#services" class="hover:underline">Services</a>
       <a href="/#contact" class="hover:underline">Contact</a>
-    </div>
-  </nav>
+    </nav>
+  </div>
 {/if}
