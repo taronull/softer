@@ -8,9 +8,9 @@
   <div class="grid gap-1 col-start-2 max-w-xs">
     <p class="font-display font-semibold text-2xl md:text-3xl">Taro</p>
     <p class={bubble}>Hi! 👋 I'm Taro, your LX designer</p>
-    <p class={bubble}>A learning experience takes more than domain knowledge</p>
+    <p class={bubble}>Making a learning experience takes more than domain knowledge</p>
     <p class={bubble}>And that's what we can help! ✨</p>
-    <p class={bubble}>Our process makes YOU shine</p>
+    <p class={bubble}>Our process makes it unique to you</p>
     <p class={bubble}>Let's find out if it's a good fit for your challenge 😉</p>
     <p class={bubble}>Say hi: <a href="mailto:taro@softer.design" class={link}>taro@softer.design</a></p>
     <p class={bubble}>
