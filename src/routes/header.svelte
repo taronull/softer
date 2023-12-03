@@ -1,5 +1,5 @@
 <header class="fixed w-full px-6 sm:px-8 py-4">
-  <a href="/" id="logotype" class="text-3xl md:text-4xl">Softer</a>
+  <a href="/" id="logotype" class="text-3xl md:text-4xl bg-stone-50 rounded-[50%] px-4 pb-1.5">Softer</a>
 </header>
 
 <style>
