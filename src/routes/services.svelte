@@ -15,8 +15,8 @@
       <li>Character Design</li>
       <li>Infographics</li>
       <li>User Interface</li>
-      <li>Guide Materials</li>
       <li>Learner Assessment</li>
+      <li>Project Management</li>
       <li>Tools & Platforms</li>
     </ul>
   </div>
