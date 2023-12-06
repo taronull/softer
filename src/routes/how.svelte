@@ -37,3 +37,9 @@
     </p>
   </details>
 </section>
+
+<style>
+  ::-webkit-details-marker {
+    display: none;
+  }
+</style>
