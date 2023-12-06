@@ -4,7 +4,7 @@
       <p class="font-display font-thin text-5xl">#</p>
       <h1 class="font-display text-3xl pl-8">Creators</h1>
     </div>
-    <ul class="list-['-_'] list-inside pl-8">
+    <ul class="list-['–_'] list-inside pl-8">
       <li>Online Courses</li>
       <li>Guide Materials</li>
       <li>Community Building</li>
@@ -15,7 +15,7 @@
       <p class="font-display font-thin text-5xl">@</p>
       <h1 class="font-display text-3xl pl-8">Companies</h1>
     </div>
-    <ul class="list-['-_'] list-inside pl-8">
+    <ul class="list-['–_'] list-inside pl-8">
       <li>Learning Product</li>
       <li>Educational Marketing</li>
       <li>Brand Education</li>
@@ -26,7 +26,7 @@
       <p class="font-display font-thin text-5xl">%</p>
       <h1 class="font-display text-3xl pl-8">Softwares</h1>
     </div>
-    <ul class="list-['-_'] list-inside pl-8">
+    <ul class="list-['–_'] list-inside pl-8">
       <li>Customer Education</li>
       <li>User Guides</li>
       <li>Tutorials</li>
