@@ -9,10 +9,6 @@
   import Footer from "./footer.svelte"
 </script>
 
-<svelte:head>
-	<title>Softer Design</title>
-</svelte:head>
-
 <Header />
 
 <Navigation />
