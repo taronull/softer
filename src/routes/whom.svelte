@@ -1,4 +1,4 @@
-<section class="grid grid-cols-[min(100%,_32rem)] justify-center gap-8 px-8">
+<section class="grid grid-cols-[min(100%,_32rem)] justify-center gap-16 px-4">
   <article class="grid gap-2">
     <div>
       <p class="font-display font-thin text-5xl">#</p>
