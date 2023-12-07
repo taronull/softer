@@ -16,7 +16,7 @@
       <h1 class="font-display text-3xl pl-8">Companies</h1>
     </div>
     <ul class="list-['–_'] list-inside pl-8">
-      <li>Learning Product</li>
+      <li>Learning Products</li>
       <li>Educational Marketing</li>
       <li>Brand Education</li>
     </ul>
