@@ -30,7 +30,7 @@
     <summary class={summary}>
       <span class="justify-self-end">Context</span>
       <span class="group-hover:font-black transition-all">+</span>
-      <span class="justify-self-start">Infused</span>
+      <span class="justify-self-start">Blended</span>
     </summary>
     <p class="max-w-md m-auto p-8 text-center">
       Beyond knowledge or skill, learners want to see how you see the world. We distill your unique perspective and storytelling.
