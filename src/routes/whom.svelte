@@ -5,7 +5,7 @@
       <h1 class="font-display text-4xl pl-8">Creators</h1>
     </div>
     <ul class="list-['–_'] list-inside pl-8">
-      <li>Online Courses</li>
+      <li>Courses & Coaching</li>
       <li>Guide Materials</li>
       <li>Community Building</li>
     </ul>

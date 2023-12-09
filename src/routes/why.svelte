@@ -5,8 +5,8 @@
     </h1> 
     <p class="grid gap-4 max-w-sm justify-self-end">
       Modern learners choose their own journeys. 
-      They are looking for meaningful change. 
-      Every brand is an opportunity for transformation with us.
+      They are looking for meaningful changes. 
+      With us, every brand is an opportunity for transformation.
     </p>
   </article>
 </section>
