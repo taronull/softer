@@ -12,10 +12,10 @@
     <p class={bubble}>Just let me know 😉</p>
     <p class={bubble}>Say hi: <a href="mailto:taro@softer.design" class={link}>taro@softer.design</a></p>
     <p class={bubble}>
-      Find me on 
-      <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={link}>Substack</a>, 
-      <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={link}>Twitter</a>, 
-      <a href="https://www.instagram.com/_taronull/" target="_blank" rel="noopener noreferrer" class={link}>Instagram</a>, and 
+      Connect with me on my
+      <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={link}>blog</a>, 
+      <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={link}>X</a>, 
+      <a href="https://www.instagram.com/_taronull/" target="_blank" rel="noopener noreferrer" class={link}>IG</a>, and 
       <a href="https://www.linkedin.com/in/taronull/" target="_blank" rel="noopener noreferrer" class={link}>LinkedIn</a>
     </p>
   </div>
