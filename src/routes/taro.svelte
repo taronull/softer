@@ -15,7 +15,7 @@
       Connect with me on my
       <a href="https://taroand.substack.com" target="_blank" rel="noopener noreferrer" class={link}>blog</a>, 
       <a href="https://twitter.com/taronull" target="_blank" rel="noopener noreferrer" class={link}>X</a>, 
-      <a href="https://www.instagram.com/_taronull/" target="_blank" rel="noopener noreferrer" class={link}>IG</a>, and 
+      <a href="https://www.instagram.com/t_r_n_ll/" target="_blank" rel="noopener noreferrer" class={link}>IG</a>, and 
       <a href="https://www.linkedin.com/in/taronull/" target="_blank" rel="noopener noreferrer" class={link}>LinkedIn</a>
     </p>
   </div>
