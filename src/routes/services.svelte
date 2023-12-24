@@ -3,19 +3,18 @@
     <div class="self-start md:sticky md:top-1/4">Softer</div>
     <ul>
       <li>Learning Experience</li>
+      <li>Digital Storytelling</li>
       <li>Brand Narrative</li>
-      <li>Storytelling</li>
-      <li>Learner Analysis</li>
       <li>Learner Persona</li>
-      <li>Empathy Mapping</li>
       <li>Learner Journey</li>
+      <li>Learner Assessment</li>
+      <li>Empathy Mapping</li>
       <li>Curriculum Mapping</li>
       <li>Creative Process</li>
       <li>Key Visuals</li>
       <li>Character Design</li>
       <li>Infographics</li>
-      <li>User Interface</li>
-      <li>Learner Assessment</li>
+      <li>UX/UI Design</li>
       <li>Project Management</li>
       <li>Tools & Platforms</li>
     </ul>

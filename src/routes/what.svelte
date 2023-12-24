@@ -8,7 +8,7 @@
     <span class="row-start-3 col-start-1 col-end-3">learning</span>
   </h1>
   <p class="justify-self-end col-span-2 md:col-start-2 md:row-start-1 max-w-[32ch] py-8 md:py-[1vw]">
-    Softer is a learning experience design studio.
+    Softer Design is a digital learning studio.
     We create tailored learner journeys 
     to add value to your brand
     and get your audience where they want to be.

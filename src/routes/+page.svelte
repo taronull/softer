@@ -23,7 +23,7 @@
 
 <div class="grid gap-y-64">
   <What />
-  <Showcase />
+  <!-- <Showcase /> -->
   <Why />
   <Work />
   <How />
